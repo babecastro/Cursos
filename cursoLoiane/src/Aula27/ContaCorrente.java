@@ -29,4 +29,14 @@ public class ContaCorrente {
             }
         }
     }
+
+    void depositar(double valorDepositado) {
+        saldo += valorDepositado;
+    }
+    void consultarSaldo(){
+        System.out.println("O saldo atual é de: "+saldo+"\n");
+    }
+    boolean verificarUsoChequeEspecial(){
+        return saldo < 0;
+    }
 }

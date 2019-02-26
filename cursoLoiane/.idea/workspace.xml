@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ece448c5-176e-4e4e-b9ae-0142534b49c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios15/exer10Turno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios15/exer9OrdemDecrescente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios15/exer9OrdemDecrescente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula27/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula27/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula27/Exer02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula27/Exer02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aula24/git@github.com:babecastro/Cursos.git/ContaCorrente.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aula24/git@github.com:babecastro/Cursos.git/Contato.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aula24/git@github.com:babecastro/Cursos.git/Exer01.java" beforeDir="false" />
@@ -58,20 +59,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aula27/ContaCorrente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="511">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="e#961#962#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+                <element signature="e#1125#1126#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Aula27/Exer02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="735">
+              <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -144,7 +152,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/aula24" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -175,8 +183,8 @@
         <option value="$PROJECT_DIR$/src/Aula27/TesteCarro.java" />
         <option value="$PROJECT_DIR$/src/Aula27/Lampada.java" />
         <option value="$PROJECT_DIR$/src/Aula27/Exer01.java" />
-        <option value="$PROJECT_DIR$/src/Aula27/Exer02.java" />
         <option value="$PROJECT_DIR$/src/Aula27/ContaCorrente.java" />
+        <option value="$PROJECT_DIR$/src/Aula27/Exer02.java" />
       </list>
     </option>
   </component>
@@ -214,12 +222,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aula24" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cursoLoiane" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursoLoiane" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Aula27" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -229,7 +231,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551202558223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551206489841" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -335,12 +337,12 @@
       <workItem from="1548783015435" duration="5617000" />
       <workItem from="1549655448188" duration="3181000" />
       <workItem from="1551113879215" duration="5715000" />
-      <workItem from="1551184979421" duration="6177000" />
+      <workItem from="1551184979421" duration="7630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20690000" />
+    <option name="totallyTimeSpent" value="22143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
@@ -594,17 +596,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aula27/Exer02.java">
+    <entry file="file://$PROJECT_DIR$/src/Aula27/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="511">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aula27/ContaCorrente.java">
+    <entry file="file://$PROJECT_DIR$/src/Aula27/Exer02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="735">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
         </state>
       </provider>
     </entry>
