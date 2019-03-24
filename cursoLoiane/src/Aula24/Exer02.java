@@ -1,4 +1,4 @@
-package aula24;
+package Aula24;
 
 public class Exer02 {
     public static void main(String[] args){

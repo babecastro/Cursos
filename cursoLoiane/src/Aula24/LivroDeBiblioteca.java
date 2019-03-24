@@ -1,4 +1,4 @@
-package aula24;
+package Aula24;
 
 import java.util.Date;
 

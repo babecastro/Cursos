@@ -1,4 +1,4 @@
-package aula24;
+package Aula24;
 
 public class Lampada {
     String modelo;

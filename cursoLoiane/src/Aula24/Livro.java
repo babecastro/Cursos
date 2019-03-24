@@ -1,11 +1,10 @@
-package aula24;
+package Aula24;
 
-public class LivroLivraria {
+public class Livro {
     String nome;
     String autor;
     int qtPaginas;
     int anoLancamento;
     String isbn;
-    double preco;
 
 }
