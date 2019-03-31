@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ece448c5-176e-4e4e-b9ae-0142534b49c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/aula24/Exer06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula24/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula19/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,11 @@
     <session id="-694051692">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,7 +44,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -50,22 +54,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="573" />
+          <entry key="JAVA" value="1108" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Aula24/ContaCorrente.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="17" selection-start-line="3" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aula27/ContaCorrente.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,17 +79,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aula27/Exer02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="833">
               <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aula18/breakContinue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="307">
               <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aula19/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -203,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/Aula27/ContaCorrente.java" />
         <option value="$PROJECT_DIR$/src/Aula27/Exer02.java" />
         <option value="$PROJECT_DIR$/src/Aula18/breakContinue.java" />
+        <option value="$PROJECT_DIR$/src/Aula19/Arrays.java" />
       </list>
     </option>
   </component>
@@ -212,13 +217,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="739" />
-    <option name="width" value="647" />
-    <option name="height" value="788" />
+    <option name="x" value="770" />
+    <option name="y" value="47" />
+    <option name="width" value="586" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -226,8 +238,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,19 +250,28 @@
               <item name="cursoLoiane" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cursoLoiane" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursoLoiane" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula19" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553431103220" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554039077158" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,7 +285,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.breakContinue">
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula19.Arrays" />
+      <module name="cursoLoiane" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula27.Exer01" />
       <module name="cursoLoiane" />
@@ -282,19 +314,6 @@
     </configuration>
     <configuration name="Exer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula27.Exer02" />
-      <module name="cursoLoiane" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteCarro (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula27.TesteCarro" />
       <module name="cursoLoiane" />
       <extension name="coverage">
         <pattern>
@@ -339,17 +358,17 @@
     <list>
       <item itemvalue="Application.Exer01" />
       <item itemvalue="Application.Exer02" />
-      <item itemvalue="Application.TesteCarro (2)" />
       <item itemvalue="Cucumber java.All Features in: Aula18" />
       <item itemvalue="Application.breakContinue" />
+      <item itemvalue="Application.Arrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.breakContinue" />
         <item itemvalue="Cucumber java.All Features in: Aula18" />
         <item itemvalue="Application.Exer02" />
         <item itemvalue="Application.Exer01" />
-        <item itemvalue="Application.TesteCarro (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +386,9 @@
       <workItem from="1549655448188" duration="3181000" />
       <workItem from="1551113879215" duration="5715000" />
       <workItem from="1551184979421" duration="7630000" />
-      <workItem from="1553429443204" duration="1738000" />
+      <workItem from="1553429443204" duration="2441000" />
+      <workItem from="1554037443963" duration="43000" />
+      <workItem from="1554037838431" duration="1227000" />
     </task>
     <servers />
   </component>
@@ -377,13 +398,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23881000" />
+    <option name="totallyTimeSpent" value="25854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="739" y="0" width="647" height="788" extended-state="0" />
+    <frame x="770" y="47" width="586" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20102215" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17490494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -392,7 +413,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33027524" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2580071" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,7 +425,6 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="SonarQube" order="13" />
-      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -414,6 +434,7 @@
       <window_info anchor="right" id="Database" order="6" weight="0.32977587" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.085639" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25773746" />
@@ -572,6 +593,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aula27/Exer02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Aula27/TesteCarro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -620,17 +648,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aula27/Exer02.java">
+    <entry file="file://$PROJECT_DIR$/src/Aula18/breakContinue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+        <state relative-caret-position="307">
+          <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Aula18/breakContinue.java">
+    <entry file="file://$PROJECT_DIR$/src/Aula19/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="56" column="58" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
+        <state relative-caret-position="187">
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
         </state>
       </provider>
     </entry>
