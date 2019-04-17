@@ -9,7 +9,7 @@ public class Arrays {
 //        double tempDia004 = 34;
 
         double[] temperaturas = new double[365];
-//        double temp []; <- a mesma coisa do anterior mas não é boa prática. 
+//        double temp []; <- a mesma coisa do anterior mas não é boa prática.
 
         temperaturas[0] = 31.3;
         temperaturas[1] = 32;
