@@ -1,5 +1,11 @@
+package br.com.bytebank.banco.modelo;
 
-//new ContaCorrente()
+/**
+ * Classe que representa uma conta corrente.
+ * 
+ * @author Barbara.Castro
+ *
+ */
 public class ContaCorrente extends Conta implements Tributavel {
 
 	public ContaCorrente(int agencia, int numero) {

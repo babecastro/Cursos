@@ -1,4 +1,11 @@
+package br.com.bytebank.banco.modelo;
 
+/**
+ * Classe que representa uma calculadora de imposto. 
+ * 
+ * @author Barbara.Castro
+ *
+ */
 public class CalculadorDeImposto {
 	
 	private double totalImposto;
