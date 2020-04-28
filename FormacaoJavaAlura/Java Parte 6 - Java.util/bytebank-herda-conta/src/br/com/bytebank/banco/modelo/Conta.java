@@ -9,8 +9,8 @@ package br.com.bytebank.banco.modelo;
 public abstract class Conta {
 
     protected double saldo;
-    private int agencia;
-    private int numero;
+    private Integer agencia;
+    private Integer numero;
     private Cliente titular;
     private static int total = 0;
     
@@ -90,6 +90,18 @@ public abstract class Conta {
     public static int getTotal(){
         return Conta.total;
     }
+
+    @Override
+	public boolean equals(Object ref) {
+    	
+    	Conta outra = (Conta) ref;
+    	
+		if(this.agencia != outra.getAgencia() && this.numero != outra.getNumero()) {
+			return false;
+		}
+		
+		return true;
+	}
     
     @Override
 	public String toString() {

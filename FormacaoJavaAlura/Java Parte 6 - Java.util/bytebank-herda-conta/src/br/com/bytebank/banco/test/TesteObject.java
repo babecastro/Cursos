@@ -4,7 +4,7 @@ import br.com.bytebank.banco.modelo.Cliente;
 import br.com.bytebank.banco.modelo.ContaCorrente;
 import br.com.bytebank.banco.modelo.ContaPoupanca;
 
-public class Teste extends Object {
+public class TesteObject extends Object {
 	public static void main(String[] args) {
 		System.out.println("x");
 		System.out.println(4);
